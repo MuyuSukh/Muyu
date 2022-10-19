@@ -1,2 +1,0 @@
-# Muyu
-"Hi world"
